@@ -1,7 +1,7 @@
-1. Your Name
-2. Enrolment No.
-3. Github Username
-4. Tech Parent
-5. Fav Senior
-6. Dream Company
-7. Fav Professor and why?
+1. Sumit Awasthi
+2. IEC2022058
+3. POLAROID86
+4. Nidhi Bharadwaj
+5. Anant Sharma
+6. Jane Street
+7. Abdullah
