@@ -1,7 +1,7 @@
-1. Your Name
-2. Enrolment No.
-3. Github Username
-4. Tech Parent
-5. Fav Senior
-6. Dream Company
-7. Fav Professor and why?
+1. Aditya Padmakar Deshmukh
+2. IEC2022026
+3. adideshmukh07
+4. Rakesh Reddy
+5. Om Vibhandik Sir
+6. Google
+7. Muneendra Ojha: Gave me andha marks
