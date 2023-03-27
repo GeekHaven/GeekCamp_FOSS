@@ -1,7 +1,7 @@
-1. Your Name
-2. Enrolment No.
-3. Github Username
-4. Tech Parent
-5. Fav Senior
-6. Dream Company
-7. Fav Professor and why?
+1. Your Name- Vraj Shah
+2. Enrolment No.- IIT2022263
+3. Github Username- VrajShah34
+4. Tech Parent- Pratham Walia
+5. Fav Senior- Aditya Gupta
+6. Dream Company- Goldman Sachs
+7. Fav Professor and why?- Saurav Verma because hi passes everyone.
