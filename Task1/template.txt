@@ -1,7 +1,7 @@
-1. Your Name
-2. Enrolment No.
-3. Github Username
-4. Tech Parent
-5. Fav Senior
-6. Dream Company
-7. Fav Professor and why?
+1. Your Name ---------------- Shashank Arora
+2. Enrolment No. ------------ IIT2022502
+3. Github Username ---------- shashank-lol
+4. Tech Parent -------------- Anant Sharma
+5. Fav Senior --------------- Aman Karnawat 
+6. Dream Company ------------ Google
+7. Fav Professor and why?---- Himanshu Maurya sir. very friendly and polite.
