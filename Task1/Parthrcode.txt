@@ -1,7 +1,15 @@
-1. Your Name : parth revanwar 
-2. Enrolment No. :iib2022044
-3. Github Username : parthrcode
-4. Tech Parent: himabindu jadhav
-5. Fav Senior : addy sir
-6. Dream Company : own company
-7. Fav Professor and why? :srd ,beacuse he teaches very nicely
+1. Your Name
+2. Enrolment No. 
+3. Github Username
+4. Tech Parent
+5. Fav Senior 
+6. Dream Company 
+7. Fav Professor and why?
+
+parth revanwar 
+iib2022044
+parthrcode
+himabindu jadhav
+addy sir
+own company
+srd ,beacuse he teaches very nicely
